@@ -1,4 +1,4 @@
 name: SimpleFly
-main: SimpleFly\Loader;
+main: SimpleFly\Loader
 api: 4.0.0
 author: SxxCodezx
